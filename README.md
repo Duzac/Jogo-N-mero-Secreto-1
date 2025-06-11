@@ -1,1 +1,1 @@
-Jogo Basico de sorteador de Números 1.0
+-Jogo Basico de sorteador de Números 1.0-
